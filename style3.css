@@ -1,0 +1,44 @@
+body{
+    background-color:cornsilk;
+}
+
+#par1{
+    color: blue;
+    background-color: coral;
+    font-size: 26px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+#par2{
+    color: blueviolet;
+    font-size: 23px;
+    background-color: aqua;
+    padding: 10px;
+    text-align: end;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+#par3{
+    color: azure;
+    background-color: aquamarine;
+    font-size: 20px;
+    text-transform: capitalize;
+    text-decoration: overline;
+    padding: 15px;
+
+}
+
+.myparagraph{
+    color: deeppink;
+    font-size: 24px;
+    background-color: firebrick;
+    padding: 12px;
+}
+.myparagraph2{
+    color: cadetblue;
+    font-size: 25px;
+    background-color: darkgrey;
+    text-align: center;
+    
+}
