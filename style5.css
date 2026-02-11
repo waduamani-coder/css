@@ -1,0 +1,35 @@
+#division1 {
+    background-color: black;
+    height: 200px;
+
+}
+
+.white {
+    background-color: white;
+    height: 25px;
+}
+
+#division2 {
+    background-color: red;
+    height: 200px;
+}
+
+.white {
+    background-color: white;
+    height: 25px;
+}
+
+#division3 {
+    background-color: green;
+    height: 200px;
+}
+
+img {
+    height: 500px;
+    text-align: center;
+}
+#flag{
+    position: relative;
+    width:900px;
+    margin: 40px auto;
+}
